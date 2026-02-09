@@ -1,9 +1,11 @@
 {
     "Author": "SF-XIV",
     "Name": "Visibility+",
-    "InternalName": "VisibilityPlus",
+    "InternalName": "Visibility",
+    "AssemblyVersion": "1.1.9.3",
     "Description": "Fork of Visibility plugin. Allows you to hide players, pets, chocobos and minions.\nIncludes VoidList, which is a better blacklist.\nAccessible via /pvis\nMore information available via /xlhelp.",
-    "Punchline": "Fork of Visibility plugin. Allows you to hide players, pets, chocobos and minions. (FP-Edition)",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SF-XIV/VisibilityPluginPlus",
     "Tags": [
         "Blacklist",
         "Void",
@@ -13,14 +15,11 @@
         "Visibility",
         "QoL"
     ],
-    "RepoUrl": "https://github.com/SF-XIV/VisibilityPluginPlus",
-    "IconUrl": "https://raw.githubusercontent.com/SF-XIV/VisibilityPluginPlus/refs/heads/main/res/icon.png",
-    "isHide": false,
-    "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "AcceptsFeedback": false
+    "Punchline": "Fork of Visibility plugin. Allows you to hide players, pets, chocobos and minions. (FP-Edition)",
+    "AcceptsFeedback": true
 }
