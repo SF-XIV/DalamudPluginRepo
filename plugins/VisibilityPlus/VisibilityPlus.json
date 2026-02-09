@@ -14,5 +14,13 @@
         "QoL"
     ],
     "RepoUrl": "https://github.com/SF-XIV/VisibilityPluginPlus",
-    "ApplicableVersion": "any"
+    "IconUrl": "https://raw.githubusercontent.com/SF-XIV/VisibilityPluginPlus/refs/heads/main/res/icon.png",
+    "isHide": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": false
 }
