@@ -26,5 +26,32 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
         "LastUpdate": "1770596947"
+    },
+    {
+        "Author": "SF-XIV",
+        "Name": "Automaton Revamped",
+        "InternalName": "Automaton",
+        "AssemblyVersion": "0.0.0.0",
+        "Description": "Takes tweaks a bit further than intended",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://google.com",
+        "Tags": [
+            "automation",
+            "plugin"
+        ],
+        "DalamudApiLevel": 14,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://i.imgur.com/AVSzkMB.png",
+        "Punchline": "YoshiP would not approve",
+        "isHide": false,
+        "isTestingExclusive": false,
+        "AcceptsFeedback": false,
+        "DownloadLinkInstall": "https://github.com/SF-XIV/AutomatonRevamped/releases/download/v0.0.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/SF-XIV/AutomatonRevamped/releases/download/v0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/SF-XIV/AutomatonRevamped/releases/download/v0.0.0.1/latest.zip",
+        "LastUpdate": "1770596947"
     }
 ]
